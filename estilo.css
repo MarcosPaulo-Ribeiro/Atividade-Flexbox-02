@@ -63,7 +63,7 @@ ISSO FOI PROPOSITAL NÃO?*/
 }
 
 .container-exercicioB{
-    flex-direction:column;
+    flex-direction:column-reverse;
 }
 
 .container-desafio{
